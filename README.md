@@ -24,4 +24,4 @@ or:
 sudo apt install lazygit
 ```
 
-The lazygit [plugin](https://github.com/kdheepak/lazygit.nvim) for Neovim is already installed, so you should fine after you restart `nvim` after installing.
+The lazygit [plugin](https://github.com/kdheepak/lazygit.nvim) for Neovim is already installed, so you should be fine after you restart `nvim` after installing.
