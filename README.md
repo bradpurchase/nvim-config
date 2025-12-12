@@ -12,7 +12,7 @@ git clone https://github.com/bradpurchase/nvim-config ~/.config/nvim
 
 ## Git
 
-Install [lazygit](https://github.com/kdheepak/lazygit.nvim) for a nice git UI:
+Install [lazygit](https://github.com/jesseduffield/lazygit) for a nice git UI:
 
 ```
 brew install lazygit
@@ -23,3 +23,5 @@ or:
 ```
 sudo apt install lazygit
 ```
+
+The lazygit [plugin](https://github.com/kdheepak/lazygit.nvim) for LazyVim is already installed, so you should fine after you restart `nvim` after installing.
