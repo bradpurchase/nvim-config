@@ -1,6 +1,6 @@
 # nvim-config
 
-My config for Neovim on top of [LazyVim](https://www.lazyvim.org/).
+My config for Neovim on top of [LazyVim](https://www.lazyvim.org/). It suits me, but it might suit you, too!
 
 ## How to use
 
