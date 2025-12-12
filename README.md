@@ -10,9 +10,23 @@ Clone this repo into your `~/.config/nvim`:
 git clone https://github.com/bradpurchase/nvim-config ~/.config/nvim
 ```
 
+## Grep
+
+Install [ripgrep](https://github.com/BurntSushi/ripgrep) for livegrep (`<leader><leader>`):
+
+```
+brew install ripgrep
+```
+
+or:
+
+```
+sudo apt-get install ripgrep
+```
+
 ## Git
 
-Install [lazygit](https://github.com/jesseduffield/lazygit) for a nice git UI:
+Install [lazygit](https://github.com/jesseduffield/lazygit) for a nice git UI (`<leader>gg`):
 
 ```
 brew install lazygit
