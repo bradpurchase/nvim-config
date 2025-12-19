@@ -21,6 +21,9 @@ return {
         standardrb = {
           enabled = "standardrb",
         },
+        biome = {
+          mason = false,
+        },
       },
     },
   },
